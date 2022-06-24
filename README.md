@@ -5,6 +5,7 @@
 - 🌱 Estou aprendendo: C# , JS , CSS , JavaScript
 - 👯 Estou procurando migrar de area para programação
 - 📫 Contato : fekindermvp@gmail.com
+- inglês : fluente 
 <div align="center">
   <a href="https://github.com/FeKinDeR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeKinDeR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
