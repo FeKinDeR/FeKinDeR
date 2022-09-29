@@ -6,6 +6,7 @@
 - 👯 Estou procurando migrar de area para programação
 - 📫 Contato : fekindermvp@gmail.com
 - inglês : fluente 
+- Linkedin : <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="felipekinderpaiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipekinderpaiva?trk=profile-badge">Felipe Paiva</a></div>
 <div align="center">
   <a href="https://github.com/FeKinDeR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeKinDeR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,6 +28,6 @@
   <a href="https://www.instagram.com/kinder_mvp/" target="_blank"><img src="https://cdn.discordapp.com/attachments/854407816584757336/988412009315967046/BotaoInstagram.png" target="_blank"></a>
   
   </div>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="felipekinderpaiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipekinderpaiva?trk=profile-badge">Felipe Paiva</a></div>
+
               
   
