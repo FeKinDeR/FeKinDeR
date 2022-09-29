@@ -27,4 +27,6 @@
   <a href="https://www.instagram.com/kinder_mvp/" target="_blank"><img src="https://cdn.discordapp.com/attachments/854407816584757336/988412009315967046/BotaoInstagram.png" target="_blank"></a>
   
   </div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="felipekinderpaiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipekinderpaiva?trk=profile-badge">Felipe Paiva</a></div>
+              
   
