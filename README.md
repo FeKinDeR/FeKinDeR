@@ -3,9 +3,8 @@
 
 - 🔭 Estou atualmente trabalhando na Atlanta Ferro e Aço LTDA como vendedor e ajudo no TI da empresa.
 - 🌱 Estou aprendendo: C# , JS , CSS , JavaScript
-- 👯 Estou procurando migrar de area para programação
+- 👯 inglês : fluente 
 - 📫 Contato : fekindermvp@gmail.com
-- inglês : fluente 
 - Linkedin : <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="felipekinderpaiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipekinderpaiva?trk=profile-badge">Felipe Paiva</a></div>
 <div align="center">
   <a href="https://github.com/FeKinDeR">
