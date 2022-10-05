@@ -23,6 +23,7 @@
 </div>
   
   <div>
+   <a href="https://web.facebook.com/kinderz" target="_blank"><img src="https://cdn.discordapp.com/attachments/963533537099784222/1027192086186954792/lousa.jpg" target="_blank"></a>
    <a href="https://web.facebook.com/kinderz" target="_blank"><img src="https://cdn.discordapp.com/attachments/854407816584757336/988411989787291658/BotaoFacebook.png" target="_blank"></a>
   <a href="https://www.instagram.com/kinder_mvp/" target="_blank"><img src="https://cdn.discordapp.com/attachments/854407816584757336/988412009315967046/BotaoInstagram.png" target="_blank"></a>
   
