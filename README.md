@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou atualmente trabalhando na Atlanta Ferro e Aço LTDA como vendedor e ajudo no TI da empresa.
-- :flag-us:inglês : fluente
+- :flag-us: inglês : fluente
 - 📫 Contato : fekindermvp@gmail.com
 - Linkedin :<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="felipekinderpaiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipekinderpaiva?trk=profile-badge">Felipe Paiva</a></div>
 <div align="center">
