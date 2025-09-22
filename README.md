@@ -18,7 +18,6 @@
   <img align="center" alt="KDR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KDR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="KDR-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="KinDeRbanner" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854407816584757336/988407284151484416/download20220601083522.png">
 </div>
   
   <div>
