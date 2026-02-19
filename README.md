@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-react-ekzwvlxob-fekinders-projects.vercel.app" target="_blank">
+  <a href="https://lnkd.in/dAu7d3tf" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-6ee7ff?style=for-the-badge&logo=vercel&logoColor=000" />
   </a>
   <a href="https://www.linkedin.com/in/felipekinderpaiva/" target="_blank">
