@@ -72,4 +72,4 @@ Tenho experiência profissional em vendas no setor de **ferro e aço** e estou e
 ## 📫 Contato
 - Email: **fekindermvp@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/felipekinderpaiva/**
-- Portfólio: **https://portfolio-react-ekzwvlxob-fekinders-projects.vercel.app**
+- Portfólio: **https://lnkd.in/dAu7d3tf**
