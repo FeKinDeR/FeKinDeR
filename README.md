@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/felipekinderpaiva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Paiva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
-  <a href="mailto:fekindermvp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fekindermvp%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=fff" />
+  <a href="mailto:devfelipepaiva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devfelipepaiva%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
 </p>
 
@@ -70,6 +70,6 @@ Tenho experiência profissional em vendas no setor de **ferro e aço** e estou e
 ---
 
 ## 📫 Contato
-- Email: **fekindermvp@gmail.com**
+- Email: **devfelipepaiva@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/felipekinderpaiva/**
 - Portfólio: **https://lnkd.in/dAu7d3tf**
