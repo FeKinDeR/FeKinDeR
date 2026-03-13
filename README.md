@@ -16,19 +16,30 @@
 </p>
 
 ---
+👨‍💻 Felipe Staropoli de Paiva
 
-## 👋 Sobre mim
-👋 Sou Desenvolvedor Front-end em formação, com foco em React e JavaScript.
+Full Stack Developer in progress | Software Engineering Student @ FIAP
+Building modern web applications with React and JavaScript.
 
-Atualmente estudo Engenharia de Software na FIAP e estou em transição de carreira para tecnologia. Tenho experiência profissional em vendas no setor de ferro e aço, o que desenvolveu habilidades importantes como comunicação, resolução de problemas e entendimento de necessidades de negócio.
+👋 About Me
 
-Hoje aplico essas habilidades no desenvolvimento de aplicações web modernas.
+Hi, I'm Felipe.
 
-💻 Foco atual:
-• Desenvolvimento Front-end com React  
-• Interfaces modernas e responsivas  
-• Integração com APIs  
-• Boas práticas de código e organização de projetos
+I'm currently transitioning my career into the technology field with a strong focus on Full Stack Web Development.
+
+I am studying Software Engineering at FIAP and building practical projects using technologies such as React, JavaScript, HTML and CSS.
+
+Before entering the tech industry, I worked in the commercial sector in the steel industry. This experience helped me develop strong skills in communication, problem solving and understanding business needs, which I now apply to software development.
+
+My goal is to build modern, scalable and efficient web applications that solve real-world problems.
+
+Currently looking for my first opportunity as a Junior Developer.
+
+💻 Current Focus:
+• Front-end development with React  
+• Building modern, responsive and user-friendly interfaces  
+• REST API integration and data-driven applications  
+• Clean code, scalable architecture and organized projects
 
 ## 🧰 Tech Stack
 <p>
@@ -43,7 +54,7 @@ Hoje aplico essas habilidades no desenvolvimento de aplicações web modernas.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projcts 
 - **Portfolio React (Vercel)** → https://github.com/FeKinDeR/portfolio-react  
 - **Fase 5 React** → https://github.com/FeKinDeR/fase5-react  
 - **FLIPBOOK KinDeR** → https://github.com/FeKinDeR/FLIPBOOKKinDeR  
@@ -64,14 +75,14 @@ Hoje aplico essas habilidades no desenvolvimento de aplicações web modernas.
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Studying
 - React (Hooks, componentes, organização)
 - APIs REST
 - Melhorias de UI/UX e responsividade
 
 ---
 
-## 📫 Contato
+## 📫 Connect With Me
 - Email: **devfelipepaiva@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/felipekinderpaiva/**
 - Portfólio: **https://lnkd.in/dAu7d3tf**
