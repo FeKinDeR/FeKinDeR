@@ -18,15 +18,17 @@
 ---
 
 ## 👋 Sobre mim
-Sou Desenvolvedor Front-end em formação, com foco em **React** e **JavaScript**.  
-Tenho experiência profissional em vendas no setor de **ferro e aço** e estou em transição para tecnologia, buscando minha **primeira oportunidade como Dev Júnior**.
+👋 Sou Desenvolvedor Front-end em formação, com foco em React e JavaScript.
 
-- ✅ Interfaces responsivas e modernas
-- ✅ Componentização e organização de código
-- ✅ Integração com **APIs REST**
-- ✅ Versionamento com **Git/GitHub**
+Atualmente estudo Engenharia de Software na FIAP e estou em transição de carreira para tecnologia. Tenho experiência profissional em vendas no setor de ferro e aço, o que desenvolveu habilidades importantes como comunicação, resolução de problemas e entendimento de necessidades de negócio.
 
----
+Hoje aplico essas habilidades no desenvolvimento de aplicações web modernas.
+
+💻 Foco atual:
+• Desenvolvimento Front-end com React  
+• Interfaces modernas e responsivas  
+• Integração com APIs  
+• Boas práticas de código e organização de projetos
 
 ## 🧰 Tech Stack
 <p>
@@ -73,3 +75,8 @@ Tenho experiência profissional em vendas no setor de **ferro e aço** e estou e
 - Email: **devfelipepaiva@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/felipekinderpaiva/**
 - Portfólio: **https://lnkd.in/dAu7d3tf**
+- ## 📊 GitHub Stats
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FeKinDeR&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeKinDeR&layout=compact&theme=tokyonight)
