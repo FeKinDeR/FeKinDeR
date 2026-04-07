@@ -85,7 +85,7 @@ Currently looking for my first opportunity as a Junior Developer.
 ## 📫 Connect With Me
 - Email: **devfelipepaiva@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/felipekinderpaiva/**
-- Portfólio: **https://lnkd.in/dAu7d3tf**
+- Portfólio: **https://portfolio-react-livid-ten.vercel.app/**
 - ## 📊 GitHub Stats
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FeKinDeR&show_icons=true&theme=tokyonight)
